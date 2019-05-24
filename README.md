@@ -1,7 +1,7 @@
 Dealing with CSS across browsers
 ========
 
-This repository is a community-curated list of differences between browsers when dealing with CSS.
+This repository is a community-curated list of differences between browsers when dealing with CSS. <br>
 It is inspired by the famous [flexbugs](https://github.com/philipwalton/flexbugs) repository.
 
 ## The bugs and their workarounds
