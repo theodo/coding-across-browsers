@@ -1,4 +1,4 @@
-IE bugs
+Dealing with CSS across browsers
 ========
 
 This repository is a community-curated list of differences between browsers when dealing with CSS.
@@ -6,7 +6,7 @@ It is inspired by the famous [flexbugs](https://github.com/philipwalton/flexbugs
 
 ## The bugs and their workarounds
 
-1. [Minimum content sizing of flex items not honored](#flexbug-1)
+1. [Minimum content sizing of flex items not honored](#issue-1)
 
 ### Issue #1
 
